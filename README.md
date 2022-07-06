@@ -6,3 +6,5 @@ This repository objective is to save all the practice done during my Data Scienc
 
 05-07-22 
 
+06-07-22 
+
